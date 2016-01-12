@@ -1,0 +1,11 @@
+{
+		"masterPort": 5182,
+		"clientPort": 3986,
+		"maxUncheckSize": 1000,
+		"minNewUrlSize": 100
+		"masterServer": "http://localhost:5182",
+		"urlResource": "http://localhost:5182/fetch/",
+		"urlReport": "http://localhost:5182/crawledStatus/",
+		"maxConcurrent": 10
+
+}
